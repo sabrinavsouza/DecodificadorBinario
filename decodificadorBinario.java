@@ -1,13 +1,9 @@
-
 /**
  * Decodificador de binário.
- * 
- * @author (Luís Gabriel e Sabrina Souza) 
- * @version (16/10/2022)
  */
 import java.util.*;
 
-public class decodificadorBinarioteste
+public class decodificadorBinario
 {
     public static void main (String[]args){
          Scanner entrada=new Scanner(System.in);
