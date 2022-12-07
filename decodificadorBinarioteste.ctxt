@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=decodificadorBinarioteste
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=binario\ bits
+comment2.target=void\ helperMethod(java.lang.String,\ int)
+comment3.params=binario\ bits
+comment3.target=boolean\ testaConsistencia(java.lang.String,\ int)
+comment4.params=binario\ bits
+comment4.target=int\ conversorSemSinal(java.lang.String,\ int)
+comment5.params=binario\ bits
+comment5.target=int\ conversorComplementoDeDois(java.lang.String,\ int)
+comment6.params=binario\ bits
+comment6.target=char\ conversorASCii(java.lang.String,\ int)
+numComments=7
